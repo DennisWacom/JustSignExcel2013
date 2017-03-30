@@ -1,0 +1,46 @@
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\Interop.FlSigCaptLib.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\Interop.FLSIGCTLLib.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csproj.ResolveComReference.cache
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.Properties.Resources.resources
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csproj.GenerateResource.Cache
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.pdb
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.dll.manifest
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.vsto
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.dll
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.pdb
+C:\Users\Dennis\Dropbox\Projects\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.pdb
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.dll.manifest
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\JustSignExcel2013.vsto
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\Interop.FlSigCaptLib.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\Interop.FLSIGCTLLib.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csproj.ResolveComReference.cache
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.Properties.Resources.resources
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.csproj.GenerateResource.Cache
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.dll
+C:\Users\Dennis\Google Drive\Wacom Projects\JustSignExcel2013\JustSignExcel2013\JustSignExcel2013\obj\Debug\JustSignExcel2013.pdb
